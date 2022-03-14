@@ -1,6 +1,6 @@
 - hello i'm zuni
 - interested in cybersecurity
-- learning golang
+- learning 'go'
 - ZuniFX#8426 / zuni0@protonmail.com
 
 <!---
