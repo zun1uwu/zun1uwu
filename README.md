@@ -1,6 +1,6 @@
 - hello i'm zuni
 - interested in cybersecurity
-- probably gonna focus on learning c#
+- learning golang
 - ZuniFX#8426 / zuni0@protonmail.com
 
 <!---
