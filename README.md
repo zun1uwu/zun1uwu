@@ -1,6 +1,6 @@
 - hello i'm zuni
-- interested in a lot
-- learning rust
+- interested in c, rust and golang
+- learning 
 - ZuniFX#8426 / zuni0@protonmail.com
 
 <!---
