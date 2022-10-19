@@ -1,4 +1,4 @@
-# hello i'm zuni
+# hi i'm zuni
 - interested in fullstack, linux, operating systems, pentesting
 - learning rust
 - ZuniFX#8426 / zuni0@protonmail.com
