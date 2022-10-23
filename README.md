@@ -1,6 +1,6 @@
 # hi i'm zuni
 - interested in fullstack, linux, operating systems, pentesting
-- learning rust and want to learn x86asm
+- learning rust
 - ZuniFX#8426 / zun1@duck.com
 
 <!---
