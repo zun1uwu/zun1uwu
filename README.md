@@ -1,7 +1,7 @@
 # hi i'm zuni
 - interested in fullstack, linux, operating systems, pentesting
 - learning rust
-- ZuniFX#8426 / zun1@duck.com
+- zun1uwu#8426 / zun1@duck.com
 
 <!---
 zun1uwu/zun1uwu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
