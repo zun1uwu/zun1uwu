@@ -1,3 +1,3 @@
 - interested in systems programming, <strong>operating systems</strong> and red teaming
-- learning rust
-- zun1uwu#8426 / zun1@duck.com
+- learning rust and c
+- Discord: zun1uwu
