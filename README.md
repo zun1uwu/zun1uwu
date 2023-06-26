@@ -1,3 +1,4 @@
+- 100% self-taught
 - interested in systems programming, <strong>operating systems</strong> and red teaming
 - learning rust and c
 - Discord: zun1uwu
