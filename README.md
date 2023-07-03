@@ -1,4 +1,5 @@
 - 100% self-taught
 - interested in systems programming, <strong>operating systems</strong> and red teaming
 - learning rust and c
+- used svelte, html, css, js and ts
 - Discord: zun1uwu
