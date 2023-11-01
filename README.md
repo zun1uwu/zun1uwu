@@ -1,4 +1,4 @@
 - 100% self-taught
-- interested in systems programming, <strong>operating systems</strong>, red teaming and frontend development
-- familiar with rust, typescript, html, css/scss and solidjs
-- discord: zun1uwu
+- Interested in OS development, systems-programming, cyber security and front-end web development
+- Familiar with C, Rust, (some) x86 Assembly, TypeScript, SolidJS, TSX and SCSS
+- Discord: zun1uwu
