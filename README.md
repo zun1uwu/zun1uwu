@@ -1,4 +1,4 @@
-- 100% self-taught
+- Self-taught
 - Interested in OS development, systems-programming, cyber security and front-end web development
 - Familiar with C, Rust, (some) x86 Assembly, TypeScript, SolidJS, TSX and SCSS
 - Discord: zun1uwu
