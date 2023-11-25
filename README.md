@@ -3,4 +3,5 @@
 - Familiar with C, Rust, (some) x86 Assembly, TypeScript, SolidJS, TSX and SCSS
 - Discord: zun1uwu
 
-<strong>All of my projects have been moved to my [own gitea instance](https://git.zun1.de/zun1)!</strong>
+# Attention!
+<strong>All of my projects have been moved to my [own gitea instance](https://git.zun1.de/zun1).</strong>
