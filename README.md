@@ -1,4 +1,4 @@
 - Self-taught so far...
 - Interested in cyber security, systems programming and game development
-- Familiar with C/C++, Rust, TypeScript and various web-technologies
+- Love dealing with bytes and bits myself (low level programming)
 - Discord: zun1uwu
